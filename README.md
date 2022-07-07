@@ -20,21 +20,21 @@ Cross Promotion using FirebaseRemoteConfig in android applications
     "title": "My App Title",
     "short_desc": "My App Description",
     "package": "App package name is here",
-    "icon": "App Link is here",
+    "icon": "App icon link is here",
     "feature": "App Feature image link is here"
   },
   {
     "title": "My App Title",
     "short_desc": "My App Description",
     "package": "App package name is here",
-    "icon": "App Link is here",
+    "icon": "App icon link is here",
     "feature": "App Feature image link is here"
   },
   {
     "title": "My App Title",
     "short_desc": "My App Description",
     "package": "App package name is here",
-    "icon": "App Link is here",
+    "icon": "App icon link is here",
     "feature": "App Feature image link is here"
   }
 ]
