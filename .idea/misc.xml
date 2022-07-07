@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/drawable/bg_ads_notify.xml" value="0.2435" />
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/drawable/bg_ads_notify_red.xml" value="0.2435" />
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/drawable/bg_dialog.xml" value="0.2435" />
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/drawable/bg_glide.xml" value="0.2435" />
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/drawable/bg_glide_white.xml" value="0.2435" />
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/drawable/ic_outline_info_24.xml" value="0.2435" />
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/layout/activity_splash.xml" value="0.358695652173913" />
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/layout/dialog_promotion.xml" value="0.358695652173913" />
+        <entry key="..\:/Yaqoob/UnderWorking/CrossPromotion/app/src/main/res/layout/fragment_promotion_holder.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

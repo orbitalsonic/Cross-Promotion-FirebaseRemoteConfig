@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185247356400",
+    "project_id": "cross-promotion-testing",
+    "storage_bucket": "cross-promotion-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185247356400:android:db93410433ba9a6cb9f935",
+        "android_client_info": {
+          "package_name": "com.orbitalsonic.crosspromotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185247356400-bvbnqdpl82vumefrs67t7irpp3l3r0tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGqFVVMdCxkxlKpp2zlR9aIstFfbcvuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185247356400-bvbnqdpl82vumefrs67t7irpp3l3r0tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0F61C5</color>
+    <color name="colorPrimaryVariant">#024395</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="glide_color">#e7e7e7</color>
+    <color name="darkGray">#B7B7B7</color>
+    <color name="darkerGray">#807F7F</color>
+    <color name="lightGray">#F2F2F2</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="light_black">#1E1D1D</color>
+</resources>

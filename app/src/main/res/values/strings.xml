@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cross Promotion</string>
+    <string name="install">Install</string>
+    <string name="ad">Ad</string>
+    <string name="cancel">Cancel</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="fetching_data">Fetching Data…</string>
+    <string name="start">Start</string>
+    <string name="cross_promotion">Cross Promotion</string>
+</resources>
